@@ -8,7 +8,7 @@ function Navbar(){
 
                     <ul className="">
                         <li> <a href="#">Home</a> </li>
-                        <li> <a href="/gallery.html">Gallery</a> </li>
+                        <li> <a href="/index.html">Gallery</a> </li>
                         <li> <a href="https://www.instagram.com/_aswini_vysyaraju_/" target="_blank">Contact</a> </li>
 
                     </ul>
