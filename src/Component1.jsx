@@ -4,7 +4,7 @@ import img1 from "./assets/Black White Modern Handwritten Square Studio Logo.png
 function Component1() {
 
     useEffect(() => {
-        document.title = "Aswini Vyshyaraju - Profile";
+        document.title = "Aswini Vysyaraju - Profile";
     }, []);
 
     return (<>
